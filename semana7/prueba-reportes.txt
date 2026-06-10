@@ -1,0 +1,11 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes almacenados en memoria. Después de registrar un reporte mediante POST, este aparece en la respuesta junto con su identificador, tipo y descripción.
+
+Ejemplo:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
