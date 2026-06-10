@@ -1,0 +1,5 @@
+El comando **uname -a** muestra información del sistema operativo, como el kernel, la arquitectura y otros datos técnicos del equipo.
+
+El comando **whoami** muestra el nombre del usuario que está utilizando la sesión actual.
+
+Conocer esta información es útil para administrar un servidor, verificar el entorno de trabajo, solucionar problemas y aplicar configuraciones o actualizaciones de manera adecuada.
